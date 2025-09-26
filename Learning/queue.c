@@ -5,7 +5,7 @@
 typedef struct Node{               // Node ie each value
     int value;
     struct Node *next;
-}Node;
+} Node;
 
 typedef struct {
     Node *head;                    // First node 
