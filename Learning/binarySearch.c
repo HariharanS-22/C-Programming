@@ -14,7 +14,7 @@ int binarySearch(int *arr, int n, int find){
 }
 
 int main(){
-    int arr[] = {2, 5, 4, 8, 3, 10, 9};
+    int arr[] = {2, 3, 4, 5, 8, 9, 10};
     int len = sizeof(arr)/sizeof(int);
 
     int find = 8;
